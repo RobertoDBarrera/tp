@@ -1,0 +1,55 @@
+#title {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: sans-serif;
+}
+h1 {
+    color:#ffffff
+}
+#form {
+    margin: auto;
+    margin-top: 20px;
+    border: 3px solid rgb(0, 0, 0);
+    background-color: rgb(220, 207, 189);
+    text-align: center;
+    height: 750px;
+    width: 500px;
+    margin-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div {
+    margin: 30px;
+}
+
+body {
+    background-color: rgb(89, 78, 75);
+}
+
+#button {
+    cursor:pointer;
+    text-decoration: none;
+    text-align: center;
+    padding: 15px 29px;
+    border: solid 3px #052e40;
+    border-radius: 4px;
+    font: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #258cae;
+}
+label{
+    font-weight: bold;
+    text-decoration: underline;
+}
+#inputFile{
+    background-color:#a68c7d;
+}
+#container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: sans-serif;
+}
